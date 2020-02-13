@@ -1,0 +1,9 @@
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\bin\Debug\AutoChemist.exe.config
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\bin\Debug\AutoChemist.exe
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\bin\Debug\AutoChemist.pdb
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\obj\Debug\AutoChemist.csprojAssemblyReference.cache
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\obj\Debug\AutoChemist.Properties.Resources.resources
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\obj\Debug\AutoChemist.csproj.GenerateResource.cache
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\obj\Debug\AutoChemist.exe
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\obj\Debug\AutoChemist.pdb
+C:\Users\Li Bozhao\source\repos\AutoChemist\AutoChemist\obj\Debug\AutoChemist.Chemist.resources
